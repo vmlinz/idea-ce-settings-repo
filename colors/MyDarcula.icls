@@ -1,0 +1,19 @@
+<scheme name="MyDarcula" version="142" parent_scheme="Darcula">
+  <option name="LINE_SPACING" value="1.0" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Source Code Pro for Powerline" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Monaco" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
+  </font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Monaco" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Source Code Pro for Powerline" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
+  </console-font>
+</scheme>

@@ -1,0 +1,294 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Projects/study/foundations/language/kotlin/kotlin-koans/src/ii_collections/_24_ExtensionsOnCollections.kt" timestamp="1456984548084">
+        <mark key="[" line="16" column="50" />
+        <mark key="]" line="16" column="59" />
+        <mark key="^" line="16" column="59" />
+        <mark key="." line="16" column="59" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/foundations/language/kotlin/kotlin-koans/src/i_introduction/_7_Nullable_Types/NullableTypes.kt" timestamp="1456973493565">
+        <mark key="[" line="28" column="44" />
+        <mark key="]" line="28" column="45" />
+        <mark key="." line="28" column="45" />
+        <mark key="^" line="28" column="45" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/foundations/language/kotlin/kotlin-koans/src/i_introduction/_8_Smart_Casts/SmartCasts.kt" timestamp="1456974343514">
+        <mark key="[" line="11" column="23" />
+        <mark key="]" line="11" column="28" />
+        <mark key="^" line="11" column="28" />
+        <mark key="." line="11" column="28" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/foundations/language/kotlin/kotlin-koans/src/syntax/casts.kt" timestamp="1457409635766" />
+      <file name="$USER_HOME$/Projects/study/foundations/language/kotlin/kotlin-koans/src/v_builders/_39_HtmlBuilders.kt" timestamp="1457413785873">
+        <mark key="[" line="45" column="47" />
+        <mark key="]" line="45" column="47" />
+        <mark key="^" line="45" column="47" />
+        <mark key="." line="45" column="47" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/foundations/language/kotlin/kotlin-koans/src/v_builders/_37_StringAndMapBuilders.kt" timestamp="1457411593759">
+        <mark key="[" line="39" column="27" />
+        <mark key="]" line="39" column="27" />
+        <mark key="." line="39" column="27" />
+        <mark key="^" line="39" column="26" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/foundations/language/kotlin/kotlin-koans/src/iii_conventions/_25_Comparison_.kt" timestamp="1457020809344">
+        <mark key="[" line="19" column="17" />
+        <mark key="]" line="19" column="17" />
+        <mark key="^" line="19" column="17" />
+        <mark key="." line="19" column="17" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/foundations/language/kotlin/kotlin-koans/src/ii_collections/_22_Fold_.kt" timestamp="1456983257539">
+        <mark key="[" line="17" column="47" />
+        <mark key="]" line="17" column="80" />
+        <mark key="." line="17" column="80" />
+        <mark key="^" line="17" column="80" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/foundations/language/kotlin/kotlin-koans/src/i_introduction/_9_Extension_Functions/ExtensionFunctions.kt" timestamp="1456974966289">
+        <mark key="[" line="30" column="41" />
+        <mark key="]" line="30" column="78" />
+        <mark key="." line="30" column="78" />
+        <mark key="^" line="30" column="78" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/foundations/language/kotlin/kotlin-koans/src/iv_properties/_35_HowDelegatesWork.kt" timestamp="1457409509848">
+        <mark key="[" line="34" column="86" />
+        <mark key="]" line="34" column="86" />
+        <mark key="." line="34" column="86" />
+        <mark key="^" line="35" column="38" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/foundations/language/kotlin/kotlin-koans/src/iv_properties/_33_LazyProperty.kt" timestamp="1457407474733">
+        <mark key="[" line="6" column="44" />
+        <mark key="]" line="6" column="43" />
+        <mark key="." line="6" column="43" />
+        <mark key="^" line="6" column="43" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/foundations/language/kotlin/kotlin-koans/src/i_introduction/_11_SAM_Conversions/SAMConversions.kt" timestamp="1456978369234">
+        <mark key="[" line="19" column="51" />
+        <mark key="]" line="19" column="51" />
+        <mark key="." line="19" column="51" />
+        <mark key="^" line="19" column="51" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/foundations/language/kotlin/kotlin-koans/src/ii_collections/_18_Sort_.kt" timestamp="1456981676793">
+        <mark key="[" line="11" column="4" />
+        <mark key="]" line="11" column="10" />
+        <mark key="." line="11" column="10" />
+        <mark key="^" line="11" column="10" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/foundations/language/kotlin/kotlin-koans/src/ii_collections/_16_FlatMap.kt" timestamp="1456983467514">
+        <mark key="[" line="16" column="4" />
+        <mark key="]" line="16" column="10" />
+        <mark key="." line="16" column="10" />
+        <mark key="^" line="16" column="10" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/foundations/language/kotlin/kotlin-koans/src/ii_collections/_19_Sum_.kt" timestamp="1456981833776">
+        <mark key="[" line="10" column="47" />
+        <mark key="]" line="10" column="68" />
+        <mark key="." line="10" column="68" />
+        <mark key="^" line="10" column="68" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/foundations/language/kotlin/kotlin-koans/src/iii_conventions/_27_RangeTo.kt" timestamp="1457022811925">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/foundations/language/kotlin/kotlin-koans/src/iv_properties/_32_Properties_.kt" timestamp="1457406203478">
+        <mark key="[" line="10" column="12" />
+        <mark key="]" line="10" column="12" />
+        <mark key="." line="10" column="12" />
+        <mark key="^" line="9" column="16" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/foundations/language/kotlin/kotlin-koans/lib/kotlin-runtime-sources.jar!/generated/_Collections.kt" timestamp="1457417244157" />
+      <file name="$USER_HOME$/Projects/study/foundations/language/kotlin/kotlin-koans/src/ii_collections/_23_CompoundTasks.kt" timestamp="1456984144837">
+        <mark key="[" line="19" column="98" />
+        <mark key="]" line="19" column="105" />
+        <mark key="." line="19" column="105" />
+        <mark key="^" line="19" column="105" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/foundations/language/kotlin/kotlin-koans/src/ii_collections/_15_AllAnyAndOtherPredicates.kt" timestamp="1456980917750">
+        <mark key="[" line="37" column="33" />
+        <mark key="]" line="37" column="46" />
+        <mark key="." line="37" column="46" />
+        <mark key="^" line="37" column="46" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/foundations/language/kotlin/kotlin-koans/src/iii_conventions/_31_Invoke_.kt" timestamp="1457072274366">
+        <mark key="[" line="14" column="28" />
+        <mark key="]" line="14" column="28" />
+        <mark key="." line="14" column="28" />
+        <mark key="^" line="14" column="27" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/foundations/language/kotlin/kotlin-koans/src/v_builders/html.kt" timestamp="1457412929979" />
+      <file name="$USER_HOME$/Projects/study/foundations/language/kotlin/kotlin-koans/src/v_builders/_40_BuildersHowItWorks.kt" timestamp="1457414222341">
+        <mark key="[" line="86" column="12" />
+        <mark key="]" line="86" column="13" />
+        <mark key="." line="86" column="13" />
+        <mark key="^" line="86" column="13" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/foundations/language/kotlin/kotlin-koans/src/iii_conventions/_26_InRange.kt" timestamp="1457022664328">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="19" column="6" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="/fragment.kt" timestamp="1457413237849">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/foundations/language/kotlin/kotlin-koans/src/ii_collections/_17_MaxMin.kt" timestamp="1456981550252">
+        <mark key="[" line="14" column="46" />
+        <mark key="]" line="14" column="62" />
+        <mark key="." line="14" column="62" />
+        <mark key="^" line="14" column="62" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/foundations/language/kotlin/kotlin-koans/src/v_builders/data.kt" timestamp="1457412951470" />
+      <file name="$USER_HOME$/Projects/study/foundations/language/kotlin/kotlin-koans/src/vi_generics/_41_GenericFunctions.kt" timestamp="1457417805115">
+        <mark key="[" line="35" column="56" />
+        <mark key="]" line="36" column="62" />
+        <mark key="." line="36" column="62" />
+        <mark key="^" line="36" column="62" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/foundations/language/kotlin/kotlin-koans/src/v_builders/_36_ExtensionFunctionLiterals.kt" timestamp="1457409894183">
+        <mark key="[" line="16" column="38" />
+        <mark key="]" line="16" column="38" />
+        <mark key="." line="16" column="38" />
+        <mark key="^" line="16" column="44" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/foundations/language/kotlin/kotlin-koans/src/ii_collections/_21_Partition_.kt" timestamp="1456982495325">
+        <mark key="[" line="14" column="112" />
+        <mark key="]" line="14" column="125" />
+        <mark key="." line="14" column="125" />
+        <mark key="^" line="14" column="125" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/foundations/language/kotlin/kotlin-koans/src/iii_conventions/_28_ForLoop.kt" timestamp="1457061210334">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/foundations/language/kotlin/kotlin-koans/test/util/AdditionalTest.kt" timestamp="1457409671366" />
+      <file name="$USER_HOME$/Projects/study/foundations/language/kotlin/kotlin-koans/src/i_introduction/_12_Extensions_On_Collections/ExtensionsOnCollections.kt" timestamp="1456979861688">
+        <mark key="[" line="19" column="54" />
+        <mark key="]" line="19" column="54" />
+        <mark key="." line="19" column="54" />
+        <mark key="^" line="19" column="55" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/foundations/language/kotlin/kotlin-koans/test/iv_properties/_32_Properties.kt" timestamp="1457405880728" />
+      <file name="$USER_HOME$/Projects/study/foundations/language/kotlin/kotlin-koans/src/v_builders/_38_TheFunctionApply.kt" timestamp="1457412400241">
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="12" column="10" />
+        <mark key="." line="12" column="10" />
+        <mark key="^" line="12" column="10" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/foundations/language/kotlin/kotlin-koans/test/iii_conventions/_31_Invoke.kt" timestamp="1457071974181">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/foundations/language/kotlin/kotlin-koans/src/ii_collections/_20_GroupBy.kt" timestamp="1456981969116">
+        <mark key="[" line="9" column="56" />
+        <mark key="]" line="10" column="42" />
+        <mark key="." line="10" column="42" />
+        <mark key="^" line="10" column="42" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/foundations/language/kotlin/kotlin-koans/src/iii_conventions/_30_DestructuringDeclarations.kt" timestamp="1457063359869">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="4" />
+        <mark key="." line="13" column="4" />
+        <mark key="^" line="13" column="4" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/foundations/language/kotlin/kotlin-koans/src/ii_collections/_14_FilterMap.kt" timestamp="1456980342394">
+        <mark key="[" line="13" column="41" />
+        <mark key="]" line="13" column="41" />
+        <mark key="^" line="13" column="41" />
+        <mark key="." line="13" column="41" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/foundations/language/kotlin/kotlin-koans/src/iv_properties/_34_DelegatesExamples.kt" timestamp="1457408695871">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/foundations/language/kotlin/kotlin-koans/src/iii_conventions/_29_OperatorsOverloading.kt" timestamp="1457062694734">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="18" column="0" filename="$USER_HOME$/Projects/study/foundations/language/kotlin/kotlin-koans/src/iii_conventions/MyDate.kt" />
+      <jump line="25" column="0" filename="$USER_HOME$/Projects/study/foundations/language/kotlin/kotlin-koans/src/iii_conventions/MyDate.kt" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ZnVuIDxUPiBwYXJ0aXRpb25Ubyhjb2xsZWN0aW9uMTogTGlzdDxUPiwgY29sbGVjdGlvbjI6IExpc3Q8VD4sIHByZWRpY2F0ZTogKGM6IFQpIC0+IEJvb2xlYW4pOiBQYWlyPExpc3Q8VD4sIExpc3Q8VD4+IHsKCn0K</text>
+      </register>
+      <register name="1" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="2" type="4">
+        <text>return</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHJldHVybiB0aGlzLgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text>Set</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHJldHVybiB0aGlzLnBhcnRpdGlvbiB7IHByZWRpY2F0ZShpdCl9LnRvTGlzdCgpCg==</text>
+      </register>
+      <register name="7" type="4">
+        <text>(predicate)</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHJldHVybiB0aGlzLnBhcnRpdGlvbihwcmVkaWNhdGUpCg==</text>
+      </register>
+      <register name="9" type="4">
+        <text>partition { predicate(it) }</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry encoding="base64">JzwsJz53</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
