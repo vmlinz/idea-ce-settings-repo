@@ -21,7 +21,6 @@
         <mark key="^" line="11" column="28" />
         <mark key="." line="11" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/study/foundations/language/kotlin/kotlin-koans/src/syntax/casts.kt" timestamp="1457409635766" />
       <file name="$USER_HOME$/Projects/study/foundations/language/kotlin/kotlin-koans/src/v_builders/_39_HtmlBuilders.kt" timestamp="1457413785873">
         <mark key="[" line="45" column="47" />
         <mark key="]" line="45" column="47" />
@@ -99,7 +98,6 @@
         <mark key="." line="10" column="12" />
         <mark key="^" line="9" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/study/foundations/language/kotlin/kotlin-koans/lib/kotlin-runtime-sources.jar!/generated/_Collections.kt" timestamp="1457417244157" />
       <file name="$USER_HOME$/Projects/study/foundations/language/kotlin/kotlin-koans/src/ii_collections/_23_CompoundTasks.kt" timestamp="1456984144837">
         <mark key="[" line="19" column="98" />
         <mark key="]" line="19" column="105" />
@@ -118,7 +116,6 @@
         <mark key="." line="14" column="28" />
         <mark key="^" line="14" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/study/foundations/language/kotlin/kotlin-koans/src/v_builders/html.kt" timestamp="1457412929979" />
       <file name="$USER_HOME$/Projects/study/foundations/language/kotlin/kotlin-koans/src/v_builders/_40_BuildersHowItWorks.kt" timestamp="1457414222341">
         <mark key="[" line="86" column="12" />
         <mark key="]" line="86" column="13" />
@@ -140,8 +137,7 @@
         <mark key="." line="14" column="62" />
         <mark key="^" line="14" column="62" />
       </file>
-      <file name="$USER_HOME$/Projects/study/foundations/language/kotlin/kotlin-koans/src/v_builders/data.kt" timestamp="1457412951470" />
-      <file name="$USER_HOME$/Projects/study/foundations/language/kotlin/kotlin-koans/src/vi_generics/_41_GenericFunctions.kt" timestamp="1457417805115">
+      <file name="$USER_HOME$/Projects/study/foundations/language/kotlin/kotlin-koans/src/vi_generics/_41_GenericFunctions.kt" timestamp="1463867258215">
         <mark key="[" line="35" column="56" />
         <mark key="]" line="36" column="62" />
         <mark key="." line="36" column="62" />
@@ -164,14 +160,12 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/study/foundations/language/kotlin/kotlin-koans/test/util/AdditionalTest.kt" timestamp="1457409671366" />
       <file name="$USER_HOME$/Projects/study/foundations/language/kotlin/kotlin-koans/src/i_introduction/_12_Extensions_On_Collections/ExtensionsOnCollections.kt" timestamp="1456979861688">
         <mark key="[" line="19" column="54" />
         <mark key="]" line="19" column="54" />
         <mark key="." line="19" column="54" />
         <mark key="^" line="19" column="55" />
       </file>
-      <file name="$USER_HOME$/Projects/study/foundations/language/kotlin/kotlin-koans/test/iv_properties/_32_Properties.kt" timestamp="1457405880728" />
       <file name="$USER_HOME$/Projects/study/foundations/language/kotlin/kotlin-koans/src/v_builders/_38_TheFunctionApply.kt" timestamp="1457412400241">
         <mark key="[" line="12" column="4" />
         <mark key="]" line="12" column="10" />
