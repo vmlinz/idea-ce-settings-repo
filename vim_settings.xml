@@ -137,11 +137,11 @@
         <mark key="." line="14" column="62" />
         <mark key="^" line="14" column="62" />
       </file>
-      <file name="$USER_HOME$/Projects/study/foundations/language/kotlin/kotlin-koans/src/vi_generics/_41_GenericFunctions.kt" timestamp="1463867258215">
-        <mark key="[" line="35" column="56" />
-        <mark key="]" line="36" column="62" />
-        <mark key="." line="36" column="62" />
-        <mark key="^" line="36" column="62" />
+      <file name="$USER_HOME$/Projects/study/foundations/language/kotlin/kotlin-koans/src/vi_generics/_41_GenericFunctions.kt" timestamp="1463867936227">
+        <mark key="[" line="34" column="56" />
+        <mark key="]" line="35" column="62" />
+        <mark key="." line="35" column="62" />
+        <mark key="^" line="35" column="62" />
       </file>
       <file name="$USER_HOME$/Projects/study/foundations/language/kotlin/kotlin-koans/src/v_builders/_36_ExtensionFunctionLiterals.kt" timestamp="1457409894183">
         <mark key="[" line="16" column="38" />
@@ -282,6 +282,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
