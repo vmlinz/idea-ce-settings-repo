@@ -10,10 +10,10 @@
   </font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Monaco" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
+    <option name="EDITOR_FONT_SIZE" value="23" />
   </console-font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro for Powerline" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
+    <option name="EDITOR_FONT_SIZE" value="23" />
   </console-font>
 </scheme>
